@@ -41,6 +41,8 @@ build/Release
 node_modules/
 jspm_packages/
 .vscode/
+logger.js
+person.js
 
 # TypeScript v1 declaration files
 typings/
